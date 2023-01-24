@@ -1,4 +1,5 @@
-﻿// A constructor which has no argument is known as default constructor. It is invoked at the time of creating ojects
+﻿// A constructor which has no argument is known as default constructor.
+// It is invoked at the time of creating ojects
 using System;
 public class Employee2
 {

@@ -1,4 +1,5 @@
-﻿using System;
+﻿//C# code to demonstrate bit manipulation
+using System;
 
 class BitManipulation
 {

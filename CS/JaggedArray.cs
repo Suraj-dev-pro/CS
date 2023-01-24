@@ -1,4 +1,5 @@
-﻿using System;
+﻿//C# creating jagged array example
+using System;
 
 class JaggedArray
 {

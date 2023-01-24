@@ -1,4 +1,5 @@
-﻿using System;
+﻿// C# program to demonstrate stack
+using System;
 
     internal class Stack
     {

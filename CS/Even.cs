@@ -1,4 +1,5 @@
-﻿using System;
+﻿// C# program to find the sum of even numbers from the list of integers input by user
+using System;
 using System.Linq;
 
 

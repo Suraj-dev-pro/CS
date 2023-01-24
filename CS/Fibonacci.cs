@@ -1,4 +1,5 @@
-﻿using System;
+﻿// C# program to fibonacci series upto 20 terms
+using System;
 
 class Fibonacci
 {

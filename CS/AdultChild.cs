@@ -1,4 +1,7 @@
-﻿using System;
+﻿// write a c# program to ask user to enter name and age if the age entered is less than 18 the program should
+// display name of the user saying minor else should display name saying adult.
+
+using System;
 
 class AdultChild
 {

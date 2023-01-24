@@ -1,4 +1,5 @@
-﻿using System;
+﻿//C# counting the length of jagged array
+using System;
 
 class JaggedArrayLegth
 {

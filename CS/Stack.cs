@@ -72,7 +72,7 @@ using System;
         }
     }
 
-    class Program
+    class LinkedListEx
     {
         static void Main(string[] args)
         {

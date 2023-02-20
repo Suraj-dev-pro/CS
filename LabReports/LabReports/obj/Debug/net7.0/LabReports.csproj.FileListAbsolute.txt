@@ -1,0 +1,15 @@
+/Users/surajkarki/Projects/CS/C#labreports/LabReports/LabReports/obj/Debug/net7.0/LabReports.csproj.AssemblyReference.cache
+/Users/surajkarki/Projects/CS/C#labreports/LabReports/LabReports/obj/Debug/net7.0/LabReports.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surajkarki/Projects/CS/C#labreports/LabReports/LabReports/obj/Debug/net7.0/LabReports.AssemblyInfoInputs.cache
+/Users/surajkarki/Projects/CS/C#labreports/LabReports/LabReports/obj/Debug/net7.0/LabReports.AssemblyInfo.cs
+/Users/surajkarki/Projects/CS/C#labreports/LabReports/LabReports/obj/Debug/net7.0/LabReports.csproj.CoreCompileInputs.cache
+/Users/surajkarki/Projects/CS/C#labreports/LabReports/LabReports/bin/Debug/net7.0/LabReports
+/Users/surajkarki/Projects/CS/C#labreports/LabReports/LabReports/bin/Debug/net7.0/LabReports.deps.json
+/Users/surajkarki/Projects/CS/C#labreports/LabReports/LabReports/bin/Debug/net7.0/LabReports.runtimeconfig.json
+/Users/surajkarki/Projects/CS/C#labreports/LabReports/LabReports/bin/Debug/net7.0/LabReports.dll
+/Users/surajkarki/Projects/CS/C#labreports/LabReports/LabReports/bin/Debug/net7.0/LabReports.pdb
+/Users/surajkarki/Projects/CS/C#labreports/LabReports/LabReports/obj/Debug/net7.0/LabReports.dll
+/Users/surajkarki/Projects/CS/C#labreports/LabReports/LabReports/obj/Debug/net7.0/refint/LabReports.dll
+/Users/surajkarki/Projects/CS/C#labreports/LabReports/LabReports/obj/Debug/net7.0/LabReports.pdb
+/Users/surajkarki/Projects/CS/C#labreports/LabReports/LabReports/obj/Debug/net7.0/LabReports.genruntimeconfig.cache
+/Users/surajkarki/Projects/CS/C#labreports/LabReports/LabReports/obj/Debug/net7.0/ref/LabReports.dll
